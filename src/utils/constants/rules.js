@@ -1,0 +1,1 @@
+export const MIN_RULE_LENGTH = 3;
